@@ -1,5 +1,5 @@
 import View from './view';
-import { Fraction } from 'fractional.js';
+import Fraction from 'fraction.js';
 import icons from 'url:../../img/icons.svg';
 
 class ReceipeView extends View {
